@@ -76,6 +76,8 @@ Backend & Data:
 Firebase Authentication for secure user management
 Firebase Firestore for NoSQL database
 Firebase Storage for image and asset management
+
+Note : ## I didn't add complete file. This is just for reference purpose.##
 Firebase Functions for serverless operations (planned)
 Build & Development:
 
